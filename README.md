@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @Kosiyyu
-- 👀 I’m interested in becoming full-stack developer
-- 🌱 I’m currently learning spring boot and other web framewoks
-- 📫 You can reach me via kosiyyu@gmail.com
+### Hi there, I'm Kosiyyu! 👋
+
+- 🔭 I’m currently focused on learning Golang and its frameworks.
+- 🌱 Aspiring to become a proficient back-end developer.
+- 👀 Experienced in Java Spring, C#, C++, and JavaScript.
+- 📫 You can reach me via email: kosiyyu@gmail.com
 
 <!---
 Kosiyyu/Kosiyyu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
