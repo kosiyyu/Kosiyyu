@@ -10,7 +10,7 @@
 - Cloud & DevOps: **AWS**, **Kubernetes**, **Docker**
 - Scripting & Automation: **Python**, **Bash**, **Ansible**  
 
-I also have some experience with **Java** and **React Native**. Currently, I'm preparing for the **AWS Cloud Architect Certification** after recently earning **AWS Certified Cloud Practitioner (CLF-C02)**!
+I also have some experience with **Java** and **React Native**. Currently, I'm preparing for the **Aws SysOps Administrator** certification after recently earning **AWS Certified Cloud Practitioner (CLF-C02)**!
 
 📫 Feel free to contact me via email at [kosiyyu@gmail.com](mailto:kosiyyu@gmail.com) or connect with me on LinkedIn: [linkedin.com/in/kosiyyu](https://www.linkedin.com/in/kosiyyu).
 
