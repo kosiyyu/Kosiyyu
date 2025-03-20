@@ -12,7 +12,7 @@
 
 I also have some experience with **Java** and **React Native**. Currently, I'm preparing for the **Aws SysOps Administrator** certification after recently earning **AWS Certified Cloud Practitioner (CLF-C02)**!
 
-📫 Feel free to contact me via email at [kosiyyu@gmail.com](mailto:kosiyyu@gmail.com) or connect with me on LinkedIn: [linkedin.com/in/kosiyyu](https://www.linkedin.com/in/kosiyyu).
+📫 Feel free connect with me on LinkedIn: [linkedin.com/in/kosiyyu](https://www.linkedin.com/in/kosiyyu).
 
 <!---
 Kosiyyu/Kosiyyu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
