@@ -4,13 +4,13 @@
 
 🚀 I am an experienced developer specializing in:  
 - Backend: **ASP.NET Core**, **C#**, **Go**, **TypeScript**
-- Frontend: **React**, **TypeScript**
+- Frontend: **Solid**, **React**, **TypeScript**
 
 🔧 Other technologies I work with:  
-- Cloud & DevOps: **AWS**, **Docker**
+- Cloud & DevOps: **Azure**, **AWS**, **Docker**
 - Scripting & Automation: **Python**, **Bash**
 
-I also have some experience with **Java** and **React Native**. Currently, I'm preparing for the **AWS Certified Solutions Architect** certification after recently earning **AWS Certified Cloud Practitioner (CLF-C02)**!
+Currently, I'm preparing for the **Azure Administrator Associate** and **Azure Developer Associate** certifications.
 
 📫 Feel free connect with me on LinkedIn: [linkedin.com/in/kosiyyu](https://www.linkedin.com/in/kosiyyu).
 
